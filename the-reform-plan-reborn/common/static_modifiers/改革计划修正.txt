@@ -33,23 +33,23 @@ mod_tt_military_revolution_5 = {
 #奥秘革命
 mod_tt_mysterious_revolution_1 = {
 	country_base_minor_artifacts_produces_add = 30
-	country_resource_max_minor_artifacts_add = 5000
+	country_resource_max_minor_artifacts_add = 10000
 }
 mod_tt_mysterious_revolution_2 = {
 	country_base_minor_artifacts_produces_add = 60
-	country_resource_max_minor_artifacts_add = 10000
+	country_resource_max_minor_artifacts_add = 20000
 }
 mod_tt_mysterious_revolution_3 = {
 	country_base_minor_artifacts_produces_add = 90
-	country_resource_max_minor_artifacts_add = 15000
+	country_resource_max_minor_artifacts_add = 30000
 }
 mod_tt_mysterious_revolution_4 = {
 	country_base_minor_artifacts_produces_add = 120
-	country_resource_max_minor_artifacts_add = 20000
+	country_resource_max_minor_artifacts_add = 40000
 }
 mod_tt_mysterious_revolution_5 = {
 	country_base_minor_artifacts_produces_add = 150
-	country_resource_max_minor_artifacts_add = 25000
+	country_resource_max_minor_artifacts_add = 50000
 }
 ######################################################################
 #内政革命：管理
