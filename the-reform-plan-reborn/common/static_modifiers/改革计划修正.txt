@@ -116,19 +116,19 @@ mod_tt_internal_revolution_culture_gestalt_5 = {
 }
 #内政革命：经济
 mod_tt_internal_revolution_economics_1 = {
-	trade_value_mult = 0.2
+	planet_jobs_trade_produces_mult = 0.2
 }
 mod_tt_internal_revolution_economics_2 = {
-	trade_value_mult = 0.4
+	planet_jobs_trade_produces_mult = 0.4
 }
 mod_tt_internal_revolution_economics_3 = {
-	trade_value_mult = 0.6
+	planet_jobs_trade_produces_mult = 0.6
 }
 mod_tt_internal_revolution_economics_4 = {
-	trade_value_mult = 0.8
+	planet_jobs_trade_produces_mult = 0.8
 }
 mod_tt_internal_revolution_economics_5 = {
-	trade_value_mult = 1
+	planet_jobs_trade_produces_mult = 1
 }
 mod_tt_internal_revolution_economics_gestalt_1 = {
 	planet_jobs_produces_mult = 0.1

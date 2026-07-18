@@ -19,8 +19,8 @@ ap_tt_reform_plane = {
 		}
 	}
 	modifier = {
-		country_base_unity_produces_mult = 0.25
-		country_base_influence_produces_mult = 0.50
+		country_unity_produces_mult = 0.25
+		country_influence_produces_mult = 0.50
 		country_minor_artifacts_produces_mult = 1.00
 		country_resource_max_minor_artifacts_add = 5000
 	}
