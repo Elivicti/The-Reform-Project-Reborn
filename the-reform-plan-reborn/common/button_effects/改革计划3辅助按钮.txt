@@ -2,7 +2,7 @@
 button_tt_leader_revolution_auxiliary_0 = {
 	potential = {
 		NOT = { has_modifier = mod_tt_leader_revolution_1 }
-		has_ascension_perk = ap_tt_reform_plane_3
+		has_ascension_perk = ap_tt_reform_plan_3
 	}
 }
 button_tt_leader_revolution_auxiliary_1 = {
@@ -24,7 +24,7 @@ button_tt_leader_revolution_auxiliary_5 = {
 button_tt_council_revolution_auxiliary_0 = {
 	potential = {
 		NOT = { has_modifier = mod_tt_council_revolution_1 }
-		has_ascension_perk = ap_tt_reform_plane_3
+		has_ascension_perk = ap_tt_reform_plan_3
 	}
 }
 button_tt_council_revolution_auxiliary_1 = {
@@ -46,7 +46,7 @@ button_tt_council_revolution_auxiliary_5 = {
 button_tt_trait_revolution_auxiliary_0 = {
 	potential = {
 		NOT = { has_modifier = mod_tt_trait_revolution_1 }
-		has_ascension_perk = ap_tt_reform_plane_3
+		has_ascension_perk = ap_tt_reform_plan_3
 	}
 }
 button_tt_trait_revolution_auxiliary_1 = {

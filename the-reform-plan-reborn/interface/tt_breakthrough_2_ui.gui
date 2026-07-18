@@ -18,9 +18,9 @@ guiTypes = {
 			alwaystransparent = yes
 		}
 		instantTextBoxType = {
-			name = "tt_reform_plane"
+			name = "tt_reform_plan"
 			font = "malgun_goth_24"
-			text = "tt_reform_plane"
+			text = "tt_reform_plan"
 			origo = center
 			position = { x = 10 y = 5 }
 			maxWidth = 300

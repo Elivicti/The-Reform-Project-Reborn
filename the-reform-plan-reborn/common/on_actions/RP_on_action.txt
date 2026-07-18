@@ -1,14 +1,14 @@
 #改革计划UI
 on_custom_diplomacy = {
 	events = {
-		tt_reform_plane.2
+		tt_reform_plan.2
 	}
 }
 
 #改革计划国家创建，全局标识
 on_press_begin = {
 	events = {
-		tt_reform_plane.0
+		tt_reform_plan.0
 	}
 }
 

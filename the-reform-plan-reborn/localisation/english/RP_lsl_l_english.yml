@@ -1,15 +1,15 @@
 ﻿l_english:
- NAME_tt_reform_plane_country:0 "Reform Project"
+ NAME_tt_reform_plan_country:0 "Reform Project"
 
- edict_tt_reform_plane:0 "Reform Plan"
- edict_tt_reform_plane_desc:0 "Open the \"Reform Plan\" main interface, or communicate at £f1£."
+ edict_tt_reform_plan:0 "Reform Plan"
+ edict_tt_reform_plan_desc:0 "Open the \"Reform Plan\" main interface, or communicate at £f1£."
 
- tt_reform_plane:0 "Reform Plan"
- tt_reform_plane.3:0 "Reform Plan"
- tt_reform_plane.3.title:0"Reform Plan"
- tt_reform_plane.3.desc:0 "Reform Plan"
+ tt_reform_plan:0 "Reform Plan"
+ tt_reform_plan.3:0 "Reform Plan"
+ tt_reform_plan.3.title:0"Reform Plan"
+ tt_reform_plan.3.desc:0 "Reform Plan"
 
- the_reform_plane_effect:0 "Enable the reform plan interface"
+ the_reform_plan_effect:0 "Enable the reform plan interface"
 
 #Mystery unknown consequences
  tt_mysterious_revolution_unknown.1:0"§RLast advice§!"
@@ -37,29 +37,29 @@
  tt_science_revolution_dimension.2.a:0"Got it. Once again, prepare for war mobilization."
  tt_science_revolution_dimension.2.a.tooltip:0"§LLet's first work together to defend against those high-dimensional creatures that go and come back, and then we can settle the score with them, after all... There is only 1 year of preparation time.§!"
 
- ap_tt_reform_plane:0 "Reform Plan"
- ap_tt_reform_plane_desc:0"According to the predictions of all parties, our empire will have a great probability of going through a bottleneck stage. By then, most aspects of the empire will stagnate, and to reach a higher stage, it must reform itself. Even if it needs to consume a lot of resources."
- tt_reform_plane_desc:0"Choosing this ascension will initiate the reform plan. To complete the plan will cost a lot of £unity£ unity, £influence£ influence and £minor_artifacts£ rare artifacts. §RThis is a long and slow process, we hope you can bear and stick to it!§!\n\nTo open this interface, please communication with a country called Reform Plan at the place of Diplomatic Communication £f1£, or activate §G Decree: Reform Plan§! to Communicate."
- tt_reform_plane_warning:0"§R Remember: This is a long and slow but fruitful revolutionary process. We hope you can bear it and stick to it! §!"
+ ap_tt_reform_plan:0 "Reform Plan"
+ ap_tt_reform_plan_desc:0"According to the predictions of all parties, our empire will have a great probability of going through a bottleneck stage. By then, most aspects of the empire will stagnate, and to reach a higher stage, it must reform itself. Even if it needs to consume a lot of resources."
+ tt_reform_plan_desc:0"Choosing this ascension will initiate the reform plan. To complete the plan will cost a lot of £unity£ unity, £influence£ influence and £minor_artifacts£ rare artifacts. §RThis is a long and slow process, we hope you can bear and stick to it!§!\n\nTo open this interface, please communication with a country called Reform Plan at the place of Diplomatic Communication £f1£, or activate §G Decree: Reform Plan§! to Communicate."
+ tt_reform_plan_warning:0"§R Remember: This is a long and slow but fruitful revolutionary process. We hope you can bear it and stick to it! §!"
 
- ap_tt_reform_plane_2:0"Reform Plan - Second Phase"
- ap_tt_reform_plane_2_desc:0"The first phase of reforms has shown results, although it has led to some disasters at one time or another, but this is not worth mentioning in the face of the development of the Empire. Therefore, we can choose to continue the reform program, even if it will be the source of another disaster."
- tt_reform_plane_2_desc:0"Choosing this ascension will initiate the Reform Plan - Second Phase, the completion of which will cost a lot of £sr_zro£ zero, £sr_living_metal£ living metal and £sr_dark_matter£ dark matter. §RIt's a long and slow process, so I hope you can endure and stick with it!§!\n\nTo open this interface, please communication with a country called Reform Plan at the place of Diplomatic Communication £f1£, or activate §G Decree: Reform Plan§! to Communicate."
- tt_reform_plane_2_warning:0"§R Remember: This is a long and slow but fruitful revolutionary process. We hope you can bear it and stick to it! §!"
+ ap_tt_reform_plan_2:0"Reform Plan - Second Phase"
+ ap_tt_reform_plan_2_desc:0"The first phase of reforms has shown results, although it has led to some disasters at one time or another, but this is not worth mentioning in the face of the development of the Empire. Therefore, we can choose to continue the reform program, even if it will be the source of another disaster."
+ tt_reform_plan_2_desc:0"Choosing this ascension will initiate the Reform Plan - Second Phase, the completion of which will cost a lot of £sr_zro£ zero, £sr_living_metal£ living metal and £sr_dark_matter£ dark matter. §RIt's a long and slow process, so I hope you can endure and stick with it!§!\n\nTo open this interface, please communication with a country called Reform Plan at the place of Diplomatic Communication £f1£, or activate §G Decree: Reform Plan§! to Communicate."
+ tt_reform_plan_2_warning:0"§R Remember: This is a long and slow but fruitful revolutionary process. We hope you can bear it and stick to it! §!"
 
  requires_ascension_perks_4:1 "$TRIGGER_FAIL$Requires four other Ascension Perks to be selected first."
- requires_reform_plane_one_path:1 "§RAt least one reform path in internal, military, and mysteries needs to be completed to fulfill the reform plan.§!"
+ requires_reform_plan_one_path:1 "§RAt least one reform path in internal, military, and mysteries needs to be completed to fulfill the reform plan.§!"
 
- ap_tt_reform_plane_3:0"Reform Plan - Third Phase"
- ap_tt_reform_plane_3_desc:0"When the power of the leader is recognized, a brand new path of reform will lead us towards a true future. At that time, the current stagnation and bottleneck period will be overcome, although it will be another long and slow process of reform."
- tt_reform_plane_3_desc:0"Choosing this ascension will initiate the Reform Plan - Third Phase, the completion of which will cost a lot of £physics£ physics research, £society£ society research and £engineering£ engineering research. §RIt's a long and slow process, so I hope you can endure and stick with it!§!\n\nTo open this interface, please communication with a country called Reform Plan at the place of Diplomatic Communication £f1£, or activate §G Decree: Reform Plan§! to Communicate."
- tt_reform_plane_3_warning:0"§R Remember: This is a long and slow but fruitful revolutionary process. We hope you can bear it and stick to it! §!"
+ ap_tt_reform_plan_3:0"Reform Plan - Third Phase"
+ ap_tt_reform_plan_3_desc:0"When the power of the leader is recognized, a brand new path of reform will lead us towards a true future. At that time, the current stagnation and bottleneck period will be overcome, although it will be another long and slow process of reform."
+ tt_reform_plan_3_desc:0"Choosing this ascension will initiate the Reform Plan - Third Phase, the completion of which will cost a lot of £physics£ physics research, £society£ society research and £engineering£ engineering research. §RIt's a long and slow process, so I hope you can endure and stick with it!§!\n\nTo open this interface, please communication with a country called Reform Plan at the place of Diplomatic Communication £f1£, or activate §G Decree: Reform Plan§! to Communicate."
+ tt_reform_plan_3_warning:0"§R Remember: This is a long and slow but fruitful revolutionary process. We hope you can bear it and stick to it! §!"
 
  requires_ascension_perks_5:1 "$TRIGGER_FAIL$Requires five other Ascension Perks to be selected first."
- requires_reform_plane_2_one_path:1 "§RAt least one reform path in economics, war, and science needs to be completed to fulfill the reform plan - second phase.§!"
+ requires_reform_plan_2_one_path:1 "§RAt least one reform path in economics, war, and science needs to be completed to fulfill the reform plan - second phase.§!"
 
- tt_reform_plane_3_chain_title:0 "Reform Plan - Third Phase"
- tt_reform_plane_3_chain_desc:0 "When the power of the leader is recognized, a brand new path of reform will lead us towards a true future. At that time, the current stagnation and bottleneck period will be overcome, although it will be another long and slow process of reform. §RIt's a long and slow process, so I hope you can endure and stick with it!§!\n\nTo open this interface, please communication with a country called Reform Plan at the place of Diplomatic Communication £f1£, or activate §G Decree: Reform Plan§! to Communicate."
+ tt_reform_plan_3_chain_title:0 "Reform Plan - Third Phase"
+ tt_reform_plan_3_chain_desc:0 "When the power of the leader is recognized, a brand new path of reform will lead us towards a true future. At that time, the current stagnation and bottleneck period will be overcome, although it will be another long and slow process of reform. §RIt's a long and slow process, so I hope you can endure and stick with it!§!\n\nTo open this interface, please communication with a country called Reform Plan at the place of Diplomatic Communication £f1£, or activate §G Decree: Reform Plan§! to Communicate."
 
  tt_internal_revolution_desc:0 "Internal affairs embodies the values of all aspects of our civilization and are the core of maintaining the efficient operation of the empire."
  tt_internal_revolution:0"§Y unlock function: §!Explosion of cohesion\nRely on spending more and more £unity£§YUnity§! to continuously increase Unity output."

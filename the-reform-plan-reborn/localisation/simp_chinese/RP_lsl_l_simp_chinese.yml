@@ -1,15 +1,15 @@
 ﻿l_simp_chinese:
- NAME_tt_reform_plane_country:0"改革计划"
+ NAME_tt_reform_plan_country:0"改革计划"
 
- edict_tt_reform_plane:0 "改革计划"
- edict_tt_reform_plane_desc:0"打开“改革计划”的主界面，或者在F1处交流。"
+ edict_tt_reform_plan:0 "改革计划"
+ edict_tt_reform_plan_desc:0"打开“改革计划”的主界面，或者在F1处交流。"
 
- tt_reform_plane:0"改革计划"
- tt_reform_plane.3:0"改革计划"
- tt_reform_plane.3.title:0"改革计划"
- tt_reform_plane.3.desc:0"改革计划"
+ tt_reform_plan:0"改革计划"
+ tt_reform_plan.3:0"改革计划"
+ tt_reform_plan.3.title:0"改革计划"
+ tt_reform_plan.3.desc:0"改革计划"
 
- the_reform_plane_effect:0"启用改革计划界面"
+ the_reform_plan_effect:0"启用改革计划界面"
 
 #奥秘未知的后果
  tt_mysterious_revolution_unknown.1:0"§R最后的忠告§!"
@@ -37,29 +37,29 @@
  tt_science_revolution_dimension.2.a:0"知道了，再一次，准备进行战争动员。"
  tt_science_revolution_dimension.2.a.tooltip:0"§L先共同抵御那些去而复返的高维生物吧，然后再找它们算账，毕竟...只有1年的准备时间。§!"
 
- ap_tt_reform_plane:0"改革计划"
- ap_tt_reform_plane_desc:0"根据各方预测，我们的帝国将会有极大的概率经历一个瓶颈阶段，届时，帝国的大多数方面将会停滞不前，而想要到达更高的阶段必须得进行自我改革，哪怕需要因此消耗大量资源。"
- tt_reform_plane_desc:0"选择此飞升将启动改革计划，完成该计划需要花费大量£unity£凝聚力、£influence£影响力和£minor_artifacts£稀有文物。§R这是一个漫长且缓慢的过程，希望您能忍受并坚持下去！§!\n\n开启该界面请与外交通讯 £f1£ 处一个名为"改革计划"的国家进行"交流"，或者启用§G法令：改革计划§!进行交流。"
- tt_reform_plane_warning:0"§R记住：这是一个漫长且缓慢，但蕴含着丰富成果的革命过程，我们希望您能忍受并坚持下去！§!"
+ ap_tt_reform_plan:0"改革计划"
+ ap_tt_reform_plan_desc:0"根据各方预测，我们的帝国将会有极大的概率经历一个瓶颈阶段，届时，帝国的大多数方面将会停滞不前，而想要到达更高的阶段必须得进行自我改革，哪怕需要因此消耗大量资源。"
+ tt_reform_plan_desc:0"选择此飞升将启动改革计划，完成该计划需要花费大量£unity£凝聚力、£influence£影响力和£minor_artifacts£稀有文物。§R这是一个漫长且缓慢的过程，希望您能忍受并坚持下去！§!\n\n开启该界面请与外交通讯 £f1£ 处一个名为"改革计划"的国家进行"交流"，或者启用§G法令：改革计划§!进行交流。"
+ tt_reform_plan_warning:0"§R记住：这是一个漫长且缓慢，但蕴含着丰富成果的革命过程，我们希望您能忍受并坚持下去！§!"
 
- ap_tt_reform_plane_2:0"改革计划：第二阶段"
- ap_tt_reform_plane_2_desc:0"第一阶段的改革已经显示出了成效，尽管曾经导致了一些灾难，但这在帝国的发展面前不值一提。因此，我们可以选择继续进行改革计划，哪怕这将会另一场灾难的源头。"
- tt_reform_plane_2_desc:0"选择此飞升将启动改革计划：第二阶段，完成该计划需要花费大量£sr_zro£泽洛、£sr_living_metal£活体金属和£sr_dark_matter£暗物质。§R这是一个漫长且缓慢的过程，希望您能忍受并坚持下去！§!\n\n开启该界面请与外交通讯 £f1£ 处一个名为"改革计划"的国家进行"交流"，或者启用§G法令：改革计划§!进行交流。"
- tt_reform_plane_2_warning:0"§R记住：这是一个漫长且缓慢，但蕴含着丰富成果的革命过程，我们希望您能忍受并坚持下去！§!"
+ ap_tt_reform_plan_2:0"改革计划：第二阶段"
+ ap_tt_reform_plan_2_desc:0"第一阶段的改革已经显示出了成效，尽管曾经导致了一些灾难，但这在帝国的发展面前不值一提。因此，我们可以选择继续进行改革计划，哪怕这将会另一场灾难的源头。"
+ tt_reform_plan_2_desc:0"选择此飞升将启动改革计划：第二阶段，完成该计划需要花费大量£sr_zro£泽洛、£sr_living_metal£活体金属和£sr_dark_matter£暗物质。§R这是一个漫长且缓慢的过程，希望您能忍受并坚持下去！§!\n\n开启该界面请与外交通讯 £f1£ 处一个名为"改革计划"的国家进行"交流"，或者启用§G法令：改革计划§!进行交流。"
+ tt_reform_plan_2_warning:0"§R记住：这是一个漫长且缓慢，但蕴含着丰富成果的革命过程，我们希望您能忍受并坚持下去！§!"
 
  requires_ascension_perks_4:1 "$TRIGGER_FAIL$需要首先选择另外四个飞升天赋。"
- requires_reform_plane_one_path:1 "§R需要完成改革计划内政、军事、奥秘中的至少一条改革路线！§!"
+ requires_reform_plan_one_path:1 "§R需要完成改革计划内政、军事、奥秘中的至少一条改革路线！§!"
 
- ap_tt_reform_plane_3:0"改革计划：第三阶段"
- ap_tt_reform_plane_3_desc:0"当领袖的力量被认可，一条全新的改革路线将引领我们走向真正的未来。届时，目前的停滞与瓶颈期将被克服，尽管这将会是另一个漫长而缓慢的改革过程。"
- tt_reform_plane_3_desc:0"选择此飞升将启动改革计划：第三阶段，完成该计划需要花费大量£physics£物理学研究、£society£社会学研究和£engineering£工程学研究。§R这是一个漫长且缓慢的过程，希望您能忍受并坚持下去！§!\n\n开启该界面请与外交通讯 £f1£ 处一个名为"改革计划"的国家进行"交流"，或者启用§G法令：改革计划§!进行交流。"
- tt_reform_plane_3_warning:0"§R记住：这是一个漫长且缓慢，但蕴含着丰富成果的革命过程，我们希望您能忍受并坚持下去！§!"
+ ap_tt_reform_plan_3:0"改革计划：第三阶段"
+ ap_tt_reform_plan_3_desc:0"当领袖的力量被认可，一条全新的改革路线将引领我们走向真正的未来。届时，目前的停滞与瓶颈期将被克服，尽管这将会是另一个漫长而缓慢的改革过程。"
+ tt_reform_plan_3_desc:0"选择此飞升将启动改革计划：第三阶段，完成该计划需要花费大量£physics£物理学研究、£society£社会学研究和£engineering£工程学研究。§R这是一个漫长且缓慢的过程，希望您能忍受并坚持下去！§!\n\n开启该界面请与外交通讯 £f1£ 处一个名为"改革计划"的国家进行"交流"，或者启用§G法令：改革计划§!进行交流。"
+ tt_reform_plan_3_warning:0"§R记住：这是一个漫长且缓慢，但蕴含着丰富成果的革命过程，我们希望您能忍受并坚持下去！§!"
 
  requires_ascension_perks_5:1 "$TRIGGER_FAIL$需要首先选择另外五个飞升天赋。"
- requires_reform_plane_2_one_path:1 "§R需要完成改革计划：第二阶段经济、军工、科技中的至少一条改革路线！§!"
+ requires_reform_plan_2_one_path:1 "§R需要完成改革计划：第二阶段经济、军工、科技中的至少一条改革路线！§!"
 
- tt_reform_plane_3_chain_title:0 "改革计划：第三阶段"
- tt_reform_plane_3_chain_desc:0 "当领袖的力量被认可，一条全新的改革路线将引领我们走向真正的未来。届时，目前的停滞与瓶颈期将被克服，尽管这将会是另一个漫长而缓慢的改革过程。§R这是一个漫长且缓慢的过程，希望您能忍受并坚持下去！§!\n\n开启该界面请与外交通讯 £f1£ 处一个名为"改革计划"的国家进行"交流"，或者启用§G法令：改革计划§!进行交流。"
+ tt_reform_plan_3_chain_title:0 "改革计划：第三阶段"
+ tt_reform_plan_3_chain_desc:0 "当领袖的力量被认可，一条全新的改革路线将引领我们走向真正的未来。届时，目前的停滞与瓶颈期将被克服，尽管这将会是另一个漫长而缓慢的改革过程。§R这是一个漫长且缓慢的过程，希望您能忍受并坚持下去！§!\n\n开启该界面请与外交通讯 £f1£ 处一个名为"改革计划"的国家进行"交流"，或者启用§G法令：改革计划§!进行交流。"
 
  tt_internal_revolution_desc:0"内政凝聚着我们文明各个方面的价值观，是维持帝国高效运转的核心。"
  tt_internal_revolution:0"§Y解锁功能：§!爆发凝聚\n在§E改革计划§!界面中，依靠花费越来越多的£unity£§Y凝聚力§!以增加凝聚力产出。"

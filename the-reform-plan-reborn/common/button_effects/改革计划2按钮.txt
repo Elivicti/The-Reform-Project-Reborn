@@ -1,10 +1,10 @@
 #翻页
 button_tt2_previous_plane = {
 	allow = {
-		has_ascension_perk = ap_tt_reform_plane
+		has_ascension_perk = ap_tt_reform_plan
 	}
 	effect = {
-		country_event = { id = tt_reform_plane.5 }
+		country_event = { id = tt_reform_plan.5 }
 	}
 }
 button_tt2_next_plane = {
@@ -16,7 +16,7 @@ button_tt2_next_plane = {
 #经济革命
 button_tt_economics_revolution = {
 	allow = {
-		has_ascension_perk = ap_tt_reform_plane_2
+		has_ascension_perk = ap_tt_reform_plan_2
 	}
 	effect = {
 		RP_add_revolution_modifier = {
@@ -289,7 +289,7 @@ button_tt_economics_revolution_building_3 = {
 #军工革命
 button_tt_war_revolution = {
 	allow = {
-		has_ascension_perk = ap_tt_reform_plane_2
+		has_ascension_perk = ap_tt_reform_plan_2
 	}
 	effect = {
 		RP_add_revolution_modifier = {
@@ -562,7 +562,7 @@ button_tt_war_revolution_battle_3 = {
 #科技革命
 button_tt_science_revolution = {
 	allow = {
-		has_ascension_perk = ap_tt_reform_plane_2
+		has_ascension_perk = ap_tt_reform_plan_2
 	}
 	effect = {
 		RP_add_revolution_modifier = {

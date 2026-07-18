@@ -2,7 +2,7 @@
 button_tt_economics_revolution_auxiliary_0 = {
 	potential = {
 		NOT = { has_modifier = mod_tt_economics_revolution_1 }
-		has_ascension_perk = ap_tt_reform_plane_2
+		has_ascension_perk = ap_tt_reform_plan_2
 	}
 }
 button_tt_economics_revolution_auxiliary_1 = {
@@ -24,7 +24,7 @@ button_tt_economics_revolution_auxiliary_5 = {
 button_tt_war_revolution_auxiliary_0 = {
 	potential = {
 		NOT = { has_modifier = mod_tt_war_revolution_1 }
-		has_ascension_perk = ap_tt_reform_plane_2
+		has_ascension_perk = ap_tt_reform_plan_2
 	}
 }
 button_tt_war_revolution_auxiliary_1 = {
@@ -46,7 +46,7 @@ button_tt_war_revolution_auxiliary_5 = {
 button_tt_science_revolution_auxiliary_0 = {
 	potential = {
 		NOT = { has_modifier = mod_tt_science_revolution_1 }
-		has_ascension_perk = ap_tt_reform_plane_2
+		has_ascension_perk = ap_tt_reform_plan_2
 	}
 }
 button_tt_science_revolution_auxiliary_1 = {
